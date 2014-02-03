@@ -1,0 +1,72 @@
+--------------------------------------------------------------------------------
+                            Design Rule Check Report
+
+                     CADSTAR Design Editor Version 12.1.0.4
+
+Design:     C:\Users\a0132599\Documents\TI\Marketing\SensorTag\Design\CC2541_Layout\CC2541_SensorTag_1_3\CC2541_SensorTag_1_3.pcb
+
+Design Title:
+CC2541SensorTag
+
+Date:      21. november 2012
+Time:      15:38
+
+--------------------------------------------------------------------------------
+
+Summary of Errors By Layer
+
+  Layer Top Elec (physical layer 1) has 24 error(s).
+  Layer Bottom Elec (physical layer 8) has 17 error(s).
+  
+Detailed List of Errors By Layer
+
+
+Layer Top Elec (Physical Layer 1)
+
+  AA - Comp Placement to Comp Placement at 268.370 296.355
+  AA - Comp Placement to Comp Placement at 268.370 296.355
+  AA - Comp Placement to Comp Placement at 274.858 291.397
+  AA - Comp Placement to Comp Placement at 276.540 294.119
+  AA - Comp Placement to Comp Placement at 276.540 294.119
+  RO - Route Offset at 265.650 271.450
+  RO - Route Offset at 267.750 295.775
+  RO - Route Offset at 268.108 297.800
+  RO - Route Offset at 268.500 300.050
+  RO - Route Offset at 269.542 302.850
+  RO - Route Offset at 269.542 302.850
+  RO - Route Offset at 269.692 299.450
+  RO - Route Offset at 275.215 291.850
+  RO - Route Offset at 275.985 292.850
+  RO - Route Offset at 277.074 295.750
+  TP - Route to Pad at 266.508 276.684
+  TP - Route to Pad at 266.508 276.684
+  TP - Route to Pad at 266.508 276.684
+  TP - Route to Pad at 266.508 277.700
+  TP - Route to Pad at 266.508 277.700
+  TP - Route to Pad at 266.508 277.700
+  TP - Route to Pad at 267.016 277.192
+  TP - Route to Pad at 267.016 277.192
+  TP - Route to Pad at 267.016 277.192
+  
+Layer Bottom Elec (Physical Layer 8)
+
+  AA - Comp Placement to Comp Placement at 263.710 260.269
+  AA - Comp Placement to Comp Placement at 267.119 262.190
+  AA - Comp Placement to Comp Placement at 270.831 264.960
+  AK - Area Keepout at 269.150 264.950
+  AK - Area Keepout at 269.150 264.950
+  AK - Area Keepout at 269.150 264.950
+  AK - Area Keepout at 269.150 264.950
+  PC - Pad to Copper at 260.005 263.308
+  PC - Pad to Copper at 260.010 263.695
+  PC - Pad to Copper at 260.010 263.695
+  TC - Route to Copper at 259.018 265.448
+  TC - Route to Copper at 259.018 265.696
+  TK - Area No Routes at 269.150 264.950
+  TK - Area No Routes at 269.150 265.608
+  TK - Area No Routes at 269.150 266.362
+  TK - Area No Routes at 270.000 264.950
+  TK - Area No Routes at 273.100 266.408
+  --------------------------------------------------------------------------------
+                                   End of report
+  --------------------------------------------------------------------------------

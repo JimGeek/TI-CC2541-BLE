@@ -1,0 +1,134 @@
+--------------------------------------------------------------------------------
+                              Board Status Report
+
+                     CADSTAR Design Editor Version 12.1.0.4
+
+Design:     C:\Users\a0132599\Documents\TI\Marketing\SensorTag\Design\CC2541_Layout\CC2541_SensorTag_1_3\CC2541_SensorTag_1_3.pcb
+
+Design Title:
+CC2541SensorTag
+
+Date:      21. november 2012
+Time:      15:38
+
+--------------------------------------------------------------------------------
+                                               Min            Max          Total
+Number of components                            44             33             77
+Number of Testpoints                                             
+Number of Starpoints                                             
+Area of components (sq.cm)                   3.564          8.901         12.466
+Component/board density                         26             64             89
+Number of equivalent 16 pin ICs                  8              9             18
+Area per equivalent IC (sq.cm)               1.747          1.553          0.777
+
+--------------------------------------------------------------------------------
+                                              Area       X length       Y length
+                                           (sq.cm)           (cm)           (cm)
+Board outline                               13.978          2.500          5.700
+
+--------------------------------------------------------------------------------
+                                               All       Min       Max     Total
+Number of pads                                  31       141       121       293
+Number of Testpoint pads                                              
+
+--------------------------------------------------------------------------------
+Layer pair codes              Number of vias
+
+(Through Hole)                       215
+
+Total                                215
+
+--------------------------------------------------------------------------------
+                                    Nets    Mixed width nets         Connections
+Total number                          50                  29                 268
+
+--------------------------------------------------------------------------------
+                                             Unrouted Unrouted  Stapled   Routed
+                                                Conns Segments    Conns Segments
+Widths
+
+Signal 12/8                                                                  509
+VCC 50/10                                                    1        2      292
+GND 50/8                                           15      124      243      356
+Signal 30/15                                                                   8
+RF 50ohm                                                                       5
+
+Total                                              15      125      245     1170
+
+--------------------------------------------------------------------------------
+                     Component                      Unrouted     Route     Route
+Layer                   Copper    Copper Teardrops  Segments  Segments    Length
+                                                                            (cm)
+Title Drawing 1                                                       
+Title Drawing 2                                                       
+Panel Drawing                                                         
+Mechanical Drawing                                                    
+Letter Drill Drawing                                                  
+Doc1                                                                  
+Doc2                                                                  
+No tracks                                                             
+No vias                                                               
+Top Profiling Plated                                                  
+Top Profiling Non-Pl                                                  
+Top Placement                                                         
+Top Assembly                                                          
+Top Glue Spot                                                         
+Top Paste                                                             
+Top silk                                                              
+Top Solder Resist                                                     
+Top Elec                              38                  59       539    59.256
+Elec 2                                 2                           106    25.305
+Elec 3                                 1                           151    21.248
+1                           37                                        
+Bottom Elec                           23                  60       374    47.611
+Bottom Solder Resist                                                  
+Bottom silk                                                           
+Bottom Paste                                                          
+Bottom Glue Spot                                                      
+Bottom Assembly                                                       
+Bottom Placement                                                      
+thm_power_b                                                           
+Unassigned                                                            
+Total                       37        64                 125      1170   153.421
+
+--------------------------------------------------------------------------------
+Layer                     Text    Errors   Figures     Areas Templates
+Title Drawing 1              2                              
+Title Drawing 2              4                              
+Panel Drawing                2                              
+Mechanical Drawing                                          
+Letter Drill Drawing         2                              
+Doc1                                            24          
+Doc2                                                        
+No tracks                                                   
+No vias                                                     
+Top Profiling Plated                                        
+Top Profiling Non-Pl                                        
+Top Placement                2                              
+Top Assembly                 2                              
+Top Glue Spot                2                              
+Top Paste                    2                              
+Top silk                     3                   5          
+Top Solder Resist            2                              
+Top Elec                     2        24                             6
+Elec 2                       2                                       1
+Elec 3                       2                                       1
+1                                                           
+Bottom Elec                  3        17                   1         7
+Bottom Solder Resist         2                              
+Bottom silk                  3                              
+Bottom Paste                 2                              
+Bottom Glue Spot             2                              
+Bottom Assembly              2                              
+Bottom Placement             2                              
+thm_power_b                  2                              
+Unassigned                   1                              
+Total                       48        41        29         1        15
+
+--------------------------------------------------------------------------------
+                                               All       Min       Max     Total
+Number of test lands                                                  
+
+--------------------------------------------------------------------------------
+                                 End of report
+--------------------------------------------------------------------------------

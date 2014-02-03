@@ -1,0 +1,89 @@
+--------------------------------------------------------------------------------
+                                   Parts List
+
+                     CADSTAR Design Editor Version 12.1.0.4
+
+Design:     C:\Users\a0132599\Documents\TI\Marketing\SensorTag\Design\CC2541_Layout\CC2541_SensorTag_1_3\CC2541_SensorTag_1_3.scm
+
+Design Title:
+CC2541SensorTag
+Cadstar schematic design.
+
+Date:      21. november 2012
+Time:      15:37
+
+--------------------------------------------------------------------------------
+Part Name/Number       Description                      Qty.   Comps.
+----------------       -----------                      ----   ------
+
+ANTENNA_IIFA_BLE       Antenna single ended IIFA, 245   1      A1
+BC2002                 Keystone Button Cell Holder      1      B1
+BL_SMD_1x6_1_27        Female Pin Header SMD            1      P1
+CC2541                 Single Chip BLE                  1      U1
+C_100N_0402_X5R_K_10   Capacitor 0402                   16     C3-9
+                                                               C12
+                                                               C14-16
+                                                               C101
+                                                               C211
+                                                               C241
+                                                               C271
+                                                               C311
+C_10N_0402_X7R_K_25    Capacitor 0402                   1      C17
+C_1210                 Capacitor 1210, general          1      C2
+C_12P_0402_NP0_J_50    Capacitor 0402                   2      C221
+                                                               C231
+C_1N_0402_NP0_J_50     Capacitor 0402                   1      C201
+C_1P2_0402_NP0_C_50    Capacitor 0402                   1      C242
+C_1U_0402_X5R_K_6P3    Capacitor 0402                   3      C13
+                                                               C391
+                                                               C401
+C_220P_0402_NP0_J_50   Capacitor 0402                   1      C272
+C_22P_0402_NP0_J_50    Capacitor 0402                   2      C321
+                                                               C331
+C_2N2_0402_X7R_K_50    Capacitor 0402                   1      C273
+C_2U2_0402_X5R_M_6P3VDC   Capacitor 0402                   3      C1
+                                                               C10-11
+FIDUCIAL_MARK_1MM      Fiducial mark, 1mm metal diame   6      FM1-6
+IMU-3000               Gyroscope 3-axis                 1      U8
+KXTJ9-1007             Accelerometer Kinoix KXTJ9-100   1      U7
+LED_EL19-21SYGC        LED, Green, SMD 0603, 2.0V 16    2      D1-2
+LFB182G45BG2D280       Murata 0603 Balun for CC253x /   1      B241
+L_0402                 Inductor 0402, general           1      L243
+LQM2MPN2R2NG0          dc/dc converter type, Murat, 1   1      L3
+L_BEAD_102_0402        EMI filter bead, BLM15HG102SN1   1      L1
+MAG3110                Magnetometer Freescale MAG3110   1      U3
+MPE-GARRY 176-1-10-    Pinrow 2x5 1.27mm pitch throug   1      J1
+PUSH-BUTTON-1188       DIPTRONICS 1188E-1               1      S1
+PUSH-BUTTON-CARBON                                      2      S2-3
+R_0402                 Resistor 0402, general           7      R2
+                                                               R5
+                                                               R7-9
+                                                               R11
+                                                               R13
+R_0_0402               Resistor, 0402                   1      R10
+R_10K_0402_F           Resistor 0402                    1      R6
+R_270_0402_F           Resistor 0402                    2      R12
+                                                               R15
+R_2K2_0402_G           Resistor 0402                    2      R3-4
+R_2K7_0402_F           Resistor 0402                    1      R201
+R_56K_0402_F           Resistor 0402                    1      R301
+SHT21                  Humidity Sensor Sensirion SHT2   1      U6
+C953H                  Pressure Sensor Epcos C953H      1      U4
+TMP006                 Infrared Thermopile Sensor in    1      U5
+TPS62730               2 MHz Step Down Converter with   1      U2
+X_32.000/10/20/40/10   Epson Toyocom FA-20H 32MHz 2.5   1      X1
+X_32.768/20/30/40/12.5   Epson Toyocom FC-12M 32.768kHz   1      X2
+
+--------------------------------------------------------------------------------
+
+ 
+ 
+----- Sheet (All Sheets)
+ 
+Warning: Item '1188E' not found in, or could not be transferred from, Component Library.
+Warning: Item 'BC2002' not found in, or could not be transferred from, Component Library.
+Warning: Item 'CARBON' not found in, or could not be transferred from, Component Library.
+ 
+--------------------------------------------------------------------------------
+                                 End of report
+--------------------------------------------------------------------------------
